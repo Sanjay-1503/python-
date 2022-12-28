@@ -1,0 +1,20 @@
+n=int(input("enter a number:"))
+n_=int(n/2)
+num1=0
+num2=1
+r=""
+for i in range(n_)
+    r+=strr(num1)+" "+str(num2)+" "
+    d=num1+num2
+    num2=d+num2
+    num1=d
+print(r)
+
+
+
+
+
+
+
+
+
