@@ -1,0 +1,14 @@
+s=0
+for i in range(10)
+    a= int(input("enter a number:"))
+    s+=a
+avg=s/10
+print ("average:"+str(avg))
+
+
+
+
+
+
+
+
